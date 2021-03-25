@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52985'
     url: http://www.gutenberg.org/2009/agents/52985
     wikipedia: https://fr.wikipedia.org/wiki/Chas_Laborde
+covers:
+- cover_type: archival
+  image_path: 64614-h/images/cover.jpg
 creator:
   author:
     agent_name: Larguier, Léo
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52984
     wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9o_Larguier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64614#La-Poupee
 gutenberg_issued: '2021-02-23'
 gutenberg_type: Text
 identifiers:
